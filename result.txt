@@ -3,8 +3,6 @@ WARNING: These sks are all public, for testing only, don't use for real.
 
 used for product env:
 
-31: 0x16cba1d844d30f033a5010f9007d3d1e6085fdc1
-31: 0x30f9df7fcacab4ee67f7fd694f22bb4579a923e156ff863cf8ed0ff0e7564a87
 32: 0xaa9f35272f4145b1ddfa722287eaeedd56b0d1d8
 32: 0x201fb8c25d461145c3128ff947376309c0c55e8cfb444a95ded667357378bce5
 33: 0x87288aa296eba25c646a4af0ee56fcba38622bed
